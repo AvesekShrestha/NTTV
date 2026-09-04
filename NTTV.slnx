@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NTTV.API/NTTV.API.csproj" />
+  <Project Path="NTTV.Application/NTTV.Application.csproj" />
+  <Project Path="NTTV.Domain/NTTV.Domain.csproj" />
+  <Project Path="NTTV.Infrastructure/NTTV.Infrastructure.csproj" />
+</Solution>
